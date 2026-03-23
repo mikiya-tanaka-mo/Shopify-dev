@@ -1,0 +1,25 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "emmet.includeLanguages": {
+    "shopify-liquid": "html",
+    "*liquid": "html"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "shopify-liquid": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false
+  },
+  "tailwindCSS.includeLanguages": {
+    "shopify-liquid": "html",
+    "*liquid": "html"
+  },
+  "codeium.enableConfig": {
+    "*": true,
+    "shopify-liquid": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
+}

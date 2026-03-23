@@ -1,0 +1,1 @@
+/Users/monky/LocalSites/shopify-dev/Elizabeth_Clean/AGENTS.md
